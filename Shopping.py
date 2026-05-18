@@ -27,7 +27,7 @@ class ShoppingEngagement:
     def purchase(self):
 
         try:
-            print()
+           =-P0OI
             print("You are about to make a Purchase of 5 items")
 
             numb = 0
