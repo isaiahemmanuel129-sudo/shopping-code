@@ -1,0 +1,2 @@
+# use function to create the game what function you want to use for your frist and second
+# oncee you press on to play so so game press q to quit the game do you want to play again or continue you are using press one press two or three 

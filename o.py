@@ -48,7 +48,7 @@
 
 # Casting Numbers to Strings
 
-# emmanuel = str(20)
+# emmanuel = str(20)git 
 
 # print(type(emmanuel))
 # print(emmanuel)
@@ -112,7 +112,7 @@ name = "boss"
 
 print(name.lower())
 print(name.capitalize())
-print(name.upper()/ )
+print(name.upper())
 
 print()
 
